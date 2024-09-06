@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Miran Kim"
-description              : "amet. "
+description              : ""
 repository               : "K-miran/k-miran-new.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Miran Kim"
-  avatar           : "images/fig-kias.png"
+  avatar           : "images/fig-kias.jpg"
   bio              : "Hanyang University"
   location         : "Seoul, Korea"
   employer         :
