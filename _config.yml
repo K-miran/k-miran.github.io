@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Miran Kim"
-  avatar           : "images/fig-kias.jpg"
+  avatar           : "images/fig_kias.jpg"
   bio              : "Hanyang University"
   location         : "Seoul, Korea"
   employer         :
