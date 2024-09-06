@@ -25,18 +25,5 @@ In particular, I have been actively working on the development of homomorphic en
 Positions are available for postdocs, graduate students, and interns (junior or senior student) in areas in security, privacy, and deep learning. If you are interested in applying for a position, please send an email to me.
 
 # 🔥 News
-- Our paper titled [Accelerating HE Operations from Key Decomposition Technique](https://link.springer.com/chapter/10.1007/978-3-031-38551-3_3) appeared in _Crypto 2023_.
-- Our paper titled [COLLAGENE enables privacy-aware federated and collaborative genomic data analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03039-z) appeared in _Genome Biology_. 
-
-
-% &nbsp;🎉🎉 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
+- Our paper titled [Accelerating HE Operations from Key Decomposition Technique](https://link.springer.com/chapter/10.1007/978-3-031-38551-3_3) was published in _Crypto 2023_.
+- Our paper titled [COLLAGENE enables privacy-aware federated and collaborative genomic data analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03039-z) was published in _Genome Biology_. 
