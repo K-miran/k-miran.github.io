@@ -174,3 +174,59 @@ Positions are available for postdocs, graduate students, and interns (junior or 
       * **Miran Kim**, Kristin Lauter
       * _BMC medical informatics and decision making_; 15(Suppl 5):S3, 2015.
 
+
+# 🎖 Honors and Awards
+  * Silver Prize, The 29th Samsung Humantech Paper Awards, 2023
+      * Accelerating HE Operations from Key Decomposition Technique
+         
+  * First Prize, iDASH Genomic Data Privacy and Security Protection Competition 2018 [[URL]](http://www.humangenomeprivacy.org/2018/)
+      * Secure parallel Genome Wide Association Studies using homomorphic encryption [[Result]](https://k-miran.github.io/files/2018result.png)
+  
+  * NC Cultural Foundation Awards for Young Korean Female Mathematicians 2018 [[URL]](http://www.kwms.or.kr/index.php?mt=page&mp=5_4&mm=oxbbs&oxid=63&cpage=1&key=&val=&CAT_ID=0&BID=1003&cmd=view) 
+  
+  * Nominated at Marquis’s Who’s Who in the World 2018. Marquis’s Who’s Who.
+
+  * First Prize, iDASH Genomic Data Privacy and Security Protection Competition 2017 [[URL]](http://www.humangenomeprivacy.org/2017/)
+      * Secure logistic regression model training [[Result]](https://k-miran.github.io/files/2017_idashresult.png)
+  
+  * Excellence Award, Crypto Contest Oct 2017. Korea Cryptography Forum 
+  
+  * Second Prize, iDASH Genomic Data Privacy and Security Protection Competition 2016 [[URL]](http://www.humangenomeprivacy.org/2016/)
+
+  * Grand Prize Crypto Contest Oct 2016. Korea Cryptography Forum [[URL]](http://www.etnews.com/20161123000272)
+
+  * Special Prize Crypto Contest Nov 2015. Korea Cryptography Forum
+
+  * First Prize, iDASH Genomic Data Privacy and Security Protection Competition 2015 [[URL]](http://www.humangenomeprivacy.org/2015) [[Media]](http://blogs.technet.com/b/inside_microsoft_research/archive/2015/03/20/cryptographers-challenge-keeping-genetic-secrets-while-advancing-genetic-research.aspx) [[Media]](http://news.donga.com/3/all/20150313/70100744/1)
+
+ # 📖 Education
+  * Ph.D in Mathematical Sciences, Seoul National University, February 2017
+     * Research area: Cryptography
+     * Advisor: [Dr. Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/)
+  * M.S. in Mathematical Sciences, Seoul National University, February 2012
+  * B.S. in Mathematical Education, Seoul National University, February 2010
+
+ # 💻 Experience
+  * Sep. 2024 - Present: Associate Professor
+    * Department of Mathematics, Hanyang University
+    * Department of Computer Science, Hanyang University
+
+  * Sep. 2022 - Aug. 2024: Assistant Professor
+    * Department of Mathematics, Hanyang University
+    * Department of Computer Science, Hanyang University
+
+  * August 2020 - August 2022: Assistant Professor
+    * Department of Computer Science and Engineering, Ulsan National Institute of Science and Technology (UNIST)
+    * Graduate School of Artificial Intelligence, UNIST
+
+  * May 2018 - July 2020: Assistant Professor
+    * School of Biomedical Informatics, University of Texas, Health Science Center at Houston
+
+  * March 2017 - April 2018: Postdoctoral Researcher
+    * Division of Biomedical Informatics, University of California, San Diego
+    * Supervisor: Dr. Xiaoqian Jiang
+
+  * Spring 2015: Research Intern
+    * Microsoft Research
+    * Supervisor: [Dr. Kristin Lauter](https://www.microsoft.com/en-us/research/people/klauter/?from=http%3A%2F%2Fresearch.microsoft.com%2F%7Eklauter%2F)
+
