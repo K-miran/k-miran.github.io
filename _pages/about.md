@@ -175,7 +175,7 @@ Positions are available for postdocs, graduate students, and interns (junior or 
       * _BMC medical informatics and decision making_; 15(Suppl 5):S3, 2015.
 
 
-# 🎖 Honors and Awards
+# 🎖 Honors
   * Silver Prize, The 29th Samsung Humantech Paper Awards, 2023
       * Accelerating HE Operations from Key Decomposition Technique
          
@@ -199,14 +199,14 @@ Positions are available for postdocs, graduate students, and interns (junior or 
 
   * First Prize, iDASH Genomic Data Privacy and Security Protection Competition 2015 [[URL]](http://www.humangenomeprivacy.org/2015) [[Media]](http://blogs.technet.com/b/inside_microsoft_research/archive/2015/03/20/cryptographers-challenge-keeping-genetic-secrets-while-advancing-genetic-research.aspx) [[Media]](http://news.donga.com/3/all/20150313/70100744/1)
 
- # 📖 Education
+# 📖 Education
   * Ph.D in Mathematical Sciences, Seoul National University, February 2017
      * Research area: Cryptography
      * Advisor: [Dr. Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/)
   * M.S. in Mathematical Sciences, Seoul National University, February 2012
   * B.S. in Mathematical Education, Seoul National University, February 2010
 
- # 💻 Experience
+# 💻 Experience
   * Sep. 2024 - Present: Associate Professor
     * Department of Mathematics, Hanyang University
     * Department of Computer Science, Hanyang University
