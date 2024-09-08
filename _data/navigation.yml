@@ -2,6 +2,9 @@
 main:
   - title: "About Me"
     url: "/#about-me"
+
+  - title: "News"
+    url: "/#-news"
     
   - title: "Publications"
     url: "/#-publications"
@@ -9,7 +12,5 @@ main:
   - title: "Honors"
     url: "/#-honors"
 
-  - title: "CV"
-    url: "/#-cv"
 
 
