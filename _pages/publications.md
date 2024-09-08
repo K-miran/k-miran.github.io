@@ -1,9 +1,14 @@
 ---
-layout: archive
+permalink: /
 title: ""
-permalink: /publications/
+excerpt: ""
 author_profile: true
+redirect_from: 
+  - /publications/
+  - /publications.html
 ---
+
+<span class='anchor' id='publications'></span>
 
 **2023**
   * Accelerating HE Operations from Key Decomposition Technique [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-38551-3_3)
