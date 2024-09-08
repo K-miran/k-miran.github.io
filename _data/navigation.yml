@@ -6,13 +6,10 @@ main:
   - title: "Publications"
     url: "/#-publications"
     
-  - title: "News"
-    url: "/#-news"
+  - title: "Honors"
+    url: "/#-honors"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "CV"
+    url: "/#-cv"
 
 
