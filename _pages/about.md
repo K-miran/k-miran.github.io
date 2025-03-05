@@ -25,15 +25,25 @@ In particular, I have been actively working on the development of homomorphic en
 Positions are available for postdocs, graduate students, and interns (junior or senior student) in areas in security, privacy, and deep learning. If you are interested in applying for a position, please send an email to me.
 
 # 🔥 News
-- Our paper titled [Accelerating HE Operations from Key Decomposition Technique](https://link.springer.com/chapter/10.1007/978-3-031-38551-3_3) was published in _Crypto 2023_.
-- Our paper titled [COLLAGENE enables privacy-aware federated and collaborative genomic data analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03039-z) was published in _Genome Biology_. 
+- Our paper ["Provably Secure Approximate Computation Protocols from CKKS"](https://eprint.iacr.org/2025/395) has been appeared in Cryptology ePrint Archive. 
+- Our paper ["THOR: Secure Transformer Inference with Homomorphic Encryption"](https://eprint.iacr.org/2024/1881) has been appeared in Cryptology ePrint Archive. 
+- Our paper ["Accelerating HE Operations from Key Decomposition Technique"](https://link.springer.com/chapter/10.1007/978-3-031-38551-3_3) was published in _Crypto 2023_.
+- Our paper ["COLLAGENE enables privacy-aware federated and collaborative genomic data analysis"](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03039-z) was published in _Genome Biology_. 
 
 
 # 📖 Publications
+  * Descriptor: Benchmarking Secure Neural Network Evaluation Methods for Protein Sequence Classification (iDASH24) [[pdf]](https://ieeexplore.ieee.org/abstract/document/10720824)
+     * Arif Ozgun Harmanci, Luyao Chen, **Miran Kim**, Xiaoqian Jiang,
+     * _IEEE Data Descriptions_, 2024
+       
+  * Finding Highly Similar Regions of Genomic Sequences Through Homomorphic Encryption [[pdf]](https://www.liebertpub.com/doi/10.1089/cmb.2023.0050)
+     * Magsarjav Bataa, Siwoo Song, Kunsoo Park, **Miran Kim**, Jung Hee Cheon, Sun Kim
+     * _JOURNAL OF COMPUTATIONAL BIOLOGY_, 2024
+
   * Accelerating HE Operations from Key Decomposition Technique [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-38551-3_3)
      * **Miran Kim**, Dongwon Lee, Jinyeong Seo, Yongsoo Song
      * _Advances in Cryptology – CRYPTO_, 2023
-
+       
   * COLLAGENE enables privacy-aware federated and collaborative genomic data analysis [[pdf]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03039-z)
      * Wentao Li, **Miran Kim**, Kai Zhang, Han Chen, Xiaoqian Jiang, Arif Ozgun Harmanci
      * _Genome Biology_; 2023.
@@ -42,7 +52,7 @@ Positions are available for postdocs, graduate students, and interns (junior or 
      * **Miran Kim**, Xiaoqian Jiang, Kristin Lauter, Elkhan Ismayilzada, Shayan Shams
      * _Nature Communications_; 13(1), 1-13, 2022. 
      
-   * Privacy-Aware Estimation of Relatedness in Admixed Populations [[pdf]](https://doi.org/10.1093/bib/bbac473)
+  * Privacy-Aware Estimation of Relatedness in Admixed Populations [[pdf]](https://doi.org/10.1093/bib/bbac473)
      * Su Wang, **Miran Kim**, Wentao Li, Xiaoqian Jiang, Han Chen, Arif Harmanci
      * _Briefings in Bioinformatics_; 23(6), 1-16, 2022.  
       
