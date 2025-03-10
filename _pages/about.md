@@ -26,10 +26,8 @@ Positions are available for postdocs, graduate students, and interns (junior or 
 
 # 🔥 News
 - Our paper ["Provably Secure Approximate Computation Protocols from CKKS"](https://eprint.iacr.org/2025/395) has been appeared in Cryptology ePrint Archive. 
-- Our paper ["THOR: Secure Transformer Inference with Homomorphic Encryption"](https://eprint.iacr.org/2024/1881) has been appeared in Cryptology ePrint Archive. 
-- Our paper ["Accelerating HE Operations from Key Decomposition Technique"](https://link.springer.com/chapter/10.1007/978-3-031-38551-3_3) was published in _Crypto 2023_.
-- Our paper ["COLLAGENE enables privacy-aware federated and collaborative genomic data analysis"](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03039-z) was published in _Genome Biology_. 
-
+- Our paper ["THOR: Secure Transformer Inference with Homomorphic Encryption"](https://eprint.iacr.org/2024/1881) has been appeared in Cryptology ePrint Archive.
+- Our paper ["More Efficient Lattice-based OLE from Circuit-private Linear HE with Polynomial Overhead"](https://eprint.iacr.org/2024/1534) has been appeared in Cryptology ePrint Archive.
 
 # 📖 Publications
   * Descriptor: Benchmarking Secure Neural Network Evaluation Methods for Protein Sequence Classification (iDASH24) [[pdf]](https://ieeexplore.ieee.org/abstract/document/10720824)
