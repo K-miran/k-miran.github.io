@@ -25,6 +25,7 @@ In particular, I have been actively working on the development of homomorphic en
 Positions are available for postdocs, graduate students, and interns (junior or senior student) in areas in security, privacy, and deep learning. If you are interested in applying for a position, please send an email to me.
 
 # 🔥 News
+- Our paper "Empowering AI with Privacy through Homomorphic Encryption for Secure Deep Reinforcement Learning" has been accepted in _Nature Machine Intelligence_.
 - Our paper ["Provably Secure Approximate Computation Protocols from CKKS"](https://eprint.iacr.org/2025/395) has been appeared in Cryptology ePrint Archive. 
 - Our paper ["THOR: Secure Transformer Inference with Homomorphic Encryption"](https://eprint.iacr.org/2024/1881) has been appeared in Cryptology ePrint Archive.
 - Our paper ["More Efficient Lattice-based OLE from Circuit-private Linear HE with Polynomial Overhead"](https://eprint.iacr.org/2024/1534) has been appeared in Cryptology ePrint Archive.
@@ -50,7 +51,7 @@ Positions are available for postdocs, graduate students, and interns (junior or 
      * **Miran Kim**, Xiaoqian Jiang, Kristin Lauter, Elkhan Ismayilzada, Shayan Shams
      * _Nature Communications_; 13(1), 1-13, 2022. 
      
-  * Privacy-Aware Estimation of Relatedness in Admixed Populations [[pdf]](https://doi.org/10.1093/bib/bbac473)
+  * Privacy-aware Estimation of Relatedness in Admixed Populations [[pdf]](https://doi.org/10.1093/bib/bbac473)
      * Su Wang, **Miran Kim**, Wentao Li, Xiaoqian Jiang, Han Chen, Arif Harmanci
      * _Briefings in Bioinformatics_; 23(6), 1-16, 2022.  
       
