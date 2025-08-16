@@ -25,13 +25,17 @@ In particular, I have been actively working on the development of homomorphic en
 Positions are available for postdocs, graduate students, and interns (junior or senior student) in areas in security, privacy, and deep learning. If you are interested in applying for a position, please send an email to me.
 
 # 🔥 News
+- Our paper ["THOR: Secure Transformer Inference with Homomorphic Encryption"](https://eprint.iacr.org/2024/1881) was accepted to ACM CCS!
 - Our paper ["Provably Secure Approximate Computation Protocols from CKKS"](https://eprint.iacr.org/2025/395) has been appeared in Cryptology ePrint Archive. 
-- Our paper ["THOR: Secure Transformer Inference with Homomorphic Encryption"](https://eprint.iacr.org/2024/1881) has been appeared in Cryptology ePrint Archive.
 - Our paper ["More Efficient Lattice-based OLE from Circuit-private Linear HE with Polynomial Overhead"](https://eprint.iacr.org/2024/1534) has been appeared in Cryptology ePrint Archive.
 
 # 📖 Publications
+  * THOR: Secure Transformer Inference with Homomorphic Encryption [[pdf]](https://eprint.iacr.org/2024/1881)
+     * Jungho Moon, Dongwoo Yoo, Xiaoqian Jiang, **Miran Kim**
+     * _Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS)_, 2025.
+
   * Descriptor: Benchmarking Secure Neural Network Evaluation Methods for Protein Sequence Classification (iDASH24) [[pdf]](https://ieeexplore.ieee.org/abstract/document/10720824)
-     * Arif Ozgun Harmanci, Luyao Chen, **Miran Kim**, Xiaoqian Jiang,
+     * Arif Ozgun Harmanci, Luyao Chen, **Miran Kim**, Xiaoqian Jiang
      * _IEEE Data Descriptions_, 2024
        
   * Finding Highly Similar Regions of Genomic Sequences Through Homomorphic Encryption [[pdf]](https://www.liebertpub.com/doi/10.1089/cmb.2023.0050)
@@ -84,7 +88,7 @@ Positions are available for postdocs, graduate students, and interns (junior or 
 
   * Open Imputation Server Provides Secure Imputation Services with Provable Genomic Privacy [[pdf]](https://www.biorxiv.org/content/10.1101/2021.09.30.462262v1)
       * Arif O. Harmanci, **Miran Kim**, Su Wang, Wentao Li, Yongsoo Song, Kristin Lauter, Xiaoqian Jiang
-      * biorXiv:2021.09.30.462262. (2021).
+      * biorXiv:2021.09.30.462262. 2021.
       
   * Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-64840-4_2)
       * Hao Chen, **Miran Kim**, Ilya Razenshteyn, Dragos Rotaru, Yongsoo Song, Sameer Wagh
@@ -170,11 +174,11 @@ Positions are available for postdocs, graduate students, and interns (junior or 
       * Jung Hee Cheon, **Miran Kim**, Myungsun Kim
       * _Proceedings of the Financial Cryptography and Data Security (FC)_, 2015.
        
-  * Homomorphic Computation of Edit Distance [[pdf]](https://link.springer.com/chapter/10.1007/978-3-662-48051-9_15)
+  2. Homomorphic Computation of Edit Distance [[pdf]](https://link.springer.com/chapter/10.1007/978-3-662-48051-9_15)
       * Jung Hee Cheon, **Miran Kim**, Kristin Lauter
       * _Proceedings of the Financial Cryptography and Data Security (FC)_, 2015.    
        
-  * Private Genome Analysis through Homomorphic Encryption [[pdf]](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-15-S5-S3)
+  1. Private Genome Analysis through Homomorphic Encryption [[pdf]](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-15-S5-S3)
       * **Miran Kim**, Kristin Lauter
       * _BMC medical informatics and decision making_; 15(Suppl 5):S3, 2015.
 
