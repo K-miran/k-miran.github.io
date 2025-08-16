@@ -174,11 +174,11 @@ Positions are available for postdocs, graduate students, and interns (junior or 
       * Jung Hee Cheon, **Miran Kim**, Myungsun Kim
       * _Proceedings of the Financial Cryptography and Data Security (FC)_, 2015.
        
-  2. Homomorphic Computation of Edit Distance [[pdf]](https://link.springer.com/chapter/10.1007/978-3-662-48051-9_15)
+2.Homomorphic Computation of Edit Distance [[pdf]](https://link.springer.com/chapter/10.1007/978-3-662-48051-9_15)
       * Jung Hee Cheon, **Miran Kim**, Kristin Lauter
       * _Proceedings of the Financial Cryptography and Data Security (FC)_, 2015.    
        
-  1. Private Genome Analysis through Homomorphic Encryption [[pdf]](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-15-S5-S3)
+1.Private Genome Analysis through Homomorphic Encryption [[pdf]](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-15-S5-S3)
       * **Miran Kim**, Kristin Lauter
       * _BMC medical informatics and decision making_; 15(Suppl 5):S3, 2015.
 
