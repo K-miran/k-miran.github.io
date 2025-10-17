@@ -31,7 +31,7 @@ Positions are available for postdocs, graduate students, and interns (junior or 
 - Our paper ["More Efficient Lattice-based OLE from Circuit-private Linear HE with Polynomial Overhead"](https://eprint.iacr.org/2024/1534) has been appeared in Cryptology ePrint Archive.
 
 # 📖 Publications
-  * THOR: Secure Transformer Inference with Homomorphic Encryption [[pdf]](https://eprint.iacr.org/2024/1881) [[slide]](https://k-miran.github.io/docs/thor_ccs_2025.pdf)
+  * THOR: Secure Transformer Inference with Homomorphic Encryption [[pdf]](https://eprint.iacr.org/2024/1881) [[slide]](/docs/thor_ccs_2025.pdf)
      * Jungho Moon, Dongwoo Yoo, Xiaoqian Jiang, **Miran Kim**
      * _Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS)_, 2025.
 
