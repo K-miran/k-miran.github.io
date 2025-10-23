@@ -25,6 +25,7 @@ In particular, I have been actively working on the development of homomorphic en
 Positions are available for postdocs, graduate students, and interns (junior or senior student) in areas in security, privacy, and deep learning. If you are interested in applying for a position, please send an email to me.
 
 # 🔥 News
+- Our team received the Grand Prize at the 2025 National Cryptographic Technology Contest, organized by the National Intelligence Service of Korea. [[URL]](https://www.news1.kr/it-science/general-it/5951403)
 - Our paper "Empowering AI with Homomorphic Encryption for Secure Deep Reinforcement Learning" will appear in Nature Machine Intelligence. 
 - Our paper ["THOR: Secure Transformer Inference with Homomorphic Encryption"](https://eprint.iacr.org/2024/1881) was accepted to ACM CCS!
 - Our paper ["Provably Secure Approximate Computation Protocols from CKKS"](https://eprint.iacr.org/2025/395) has been appeared in Cryptology ePrint Archive. 
@@ -185,6 +186,8 @@ Positions are available for postdocs, graduate students, and interns (junior or 
 
 
 # 🎖 Honors
+  * Grand Prize Crypto Contest Oct 2025. Korea Cryptography Forum [[URL]](https://www.news1.kr/it-science/general-it/5951403)
+    
   * Silver Prize, The 29th Samsung Humantech Paper Awards, 2023
       * Accelerating HE Operations from Key Decomposition Technique
          
