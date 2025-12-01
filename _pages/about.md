@@ -26,7 +26,7 @@ Positions are available for postdocs, graduate students, and interns (junior or 
 
 # 🔥 News
 - Our team received the Grand Prize at the 2025 National Cryptographic Technology Contest, organized by the National Intelligence Service of Korea. [[URL]](https://www.yna.co.kr/view/AKR20251023108400017?input=1195m)
-- Our paper "Empowering AI with Homomorphic Encryption for Secure Deep Reinforcement Learning" has been published in Nature Machine Intelligence. 
+- Our paper ["Empowering AI with Homomorphic Encryption for Secure Deep Reinforcement Learning"](https://doi.org/10.1038/s42256-025-01135-2) has been published in Nature Machine Intelligence. 
 - Our paper ["THOR: Secure Transformer Inference with Homomorphic Encryption"](https://eprint.iacr.org/2024/1881) has been published in ACM CCS!
 - Our paper ["Provably Secure Approximate Computation Protocols from CKKS"](https://eprint.iacr.org/2025/395) has been appeared in Cryptology ePrint Archive. 
 - Our paper ["More Efficient Lattice-based OLE from Circuit-private Linear HE with Polynomial Overhead"](https://eprint.iacr.org/2024/1534) has been appeared in Cryptology ePrint Archive.
