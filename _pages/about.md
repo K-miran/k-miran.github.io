@@ -37,7 +37,7 @@ Positions are available for postdocs, graduate students, and interns (junior or 
     * Chi-Hieu Nguyen, Dinh Thai Hoang, Diep N. Nguyen, Kristin Lauter, **Miran Kim**
     * _NATURE MACHINE INTELLIGENCE_, 2025.
   
-  * THOR: Secure Transformer Inference with Homomorphic Encryption [[pdf]](https://doi.org/10.1145/3719027.3765150) [[slide]](https://github.com/K-miran/k-miran.github.io/blob/main/assets/slides/thor_ccs_2025.pdf) 
+  * THOR: Secure Transformer Inference with Homomorphic Encryption [[pdf]](https://doi.org/10.1145/3719027.3765150) [[slide1]](https://github.com/K-miran/k-miran.github.io/blob/main/assets/slides/thor_ccs_2025.pdf) [[slide2]](https://github.com/K-miran/k-miran.github.io/blob/main/assets/slides/thor_fheorg_2026.pdf) 
      * Jungho Moon, Dongwoo Yoo, Xiaoqian Jiang, **Miran Kim**
      * _Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS)_, 2025.
 
