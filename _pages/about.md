@@ -25,12 +25,11 @@ In particular, I have been actively working on the development of homomorphic en
 Positions are available for postdocs, graduate students, and interns (junior or senior student) in areas in security, privacy, and deep learning. If you are interested in applying for a position, please send an email to me.
 
 # 🔥 News
-- Our team received the Grand Prize at the 2025 National Cryptographic Technology Contest, organized by the National Intelligence Service of Korea. [[URL]](https://www.yna.co.kr/view/AKR20251023108400017?input=1195m)
+- Our paper ["More Efficient Lattice-based OLE from Circuit-private Linear HE with Polynomial Overhead"](https://eprint.iacr.org/2024/1534) will be appeared in The IACR Communications in Cryptology (CiC).
+- Our team received the Grand Prize at the 2025 National Cryptographic Technology Contest, organized by the National Intelligence Service of Korea (국가암호공모전2025 대상). [[URL]](https://www.yna.co.kr/view/AKR20251023108400017?input=1195m)
 - Our paper ["Empowering AI with Homomorphic Encryption for Secure Deep Reinforcement Learning"](https://doi.org/10.1038/s42256-025-01135-2) has been published in Nature Machine Intelligence. 
 - Our paper ["THOR: Secure Transformer Inference with Homomorphic Encryption"](https://eprint.iacr.org/2024/1881) has been published in ACM CCS!
 - Our paper ["Provably Secure Approximate Computation Protocols from CKKS"](https://eprint.iacr.org/2025/395) has been appeared in Cryptology ePrint Archive. 
-- Our paper ["More Efficient Lattice-based OLE from Circuit-private Linear HE with Polynomial Overhead"](https://eprint.iacr.org/2024/1534) has been appeared in Cryptology ePrint Archive.
-  
 
 # 📖 Publications
   * Empowering AI with Privacy through Homomorphic Encryption for Secure Deep Reinforcement Learning [[pdf]](https://doi.org/10.1038/s42256-025-01135-2)
@@ -192,7 +191,8 @@ Positions are available for postdocs, graduate students, and interns (junior or 
 
 # 🎖 Honors
   * Grand Prize Crypto Contest Oct 2025. Korea Cryptography Forum [[URL]](https://www.news1.kr/it-science/general-it/5951403)
-    
+      * THOR: Secure Transformer Inference with Homomorphic Encryption
+         
   * Silver Prize, The 29th Samsung Humantech Paper Awards, 2023
       * Accelerating HE Operations from Key Decomposition Technique
          
