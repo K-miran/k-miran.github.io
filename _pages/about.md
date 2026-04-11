@@ -224,7 +224,7 @@ Positions are available for postdocs, graduate students, and interns (junior or 
   * M.S. in Mathematical Sciences, Seoul National University, February 2012
   * B.S. in Mathematical Education, Seoul National University, February 2010
 
-# 💻 Experience
+# 💻 Employment
   * Sep. 2024 - Present: Associate Professor
     * Department of Mathematics, Hanyang University
     * Department of Computer Science, Hanyang University
@@ -248,3 +248,10 @@ Positions are available for postdocs, graduate students, and interns (junior or 
     * Microsoft Research
     * Supervisor: [Dr. Kristin Lauter](https://ai.meta.com/people/786716476205590/kristin-e-lauter/)
 
+
+# 💻 Miscellaneous
+  * Current Graduate Students
+    * Hyeokjin Jeon, Sihyeok Song
+
+  * Former Students
+    * Jungho Moon (LG Electronics)
