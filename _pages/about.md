@@ -211,7 +211,8 @@ Positions are available for postdocs, graduate students, and interns (junior or 
   * Second Prize, iDASH Genomic Data Privacy and Security Protection Competition 2016 [[URL]](http://www.humangenomeprivacy.org/2016/)
 
   * Grand Prize Crypto Contest Oct 2016. Korea Cryptography Forum [[URL]](http://www.etnews.com/20161123000272)
-
+      * Homomorphic Encryption for Arithmetic of Approximate Numbers
+        
   * Special Prize Crypto Contest Nov 2015. Korea Cryptography Forum
 
   * First Prize, iDASH Genomic Data Privacy and Security Protection Competition 2015 [[URL]](http://www.humangenomeprivacy.org/2015) [[Media]](http://blogs.technet.com/b/inside_microsoft_research/archive/2015/03/20/cryptographers-challenge-keeping-genetic-secrets-while-advancing-genetic-research.aspx) [[Media]](http://news.donga.com/3/all/20150313/70100744/1)
@@ -241,9 +242,9 @@ Positions are available for postdocs, graduate students, and interns (junior or 
 
   * March 2017 - April 2018: Postdoctoral Researcher
     * Division of Biomedical Informatics, University of California, San Diego
-    * Supervisor: Dr. Xiaoqian Jiang
+    * Supervisor: [Dr. Xiaoqian Jiang](https://sbmi.uth.edu/faculty-and-staff/xiaoqian-jiang.htm)
 
   * Spring 2015: Research Intern
     * Microsoft Research
-    * Supervisor: [Dr. Kristin Lauter](https://www.microsoft.com/en-us/research/people/klauter/?from=http%3A%2F%2Fresearch.microsoft.com%2F%7Eklauter%2F)
+    * Supervisor: [Dr. Kristin Lauter](https://ai.meta.com/people/786716476205590/kristin-e-lauter/)
 
