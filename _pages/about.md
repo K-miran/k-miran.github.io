@@ -31,7 +31,7 @@ Positions are available for postdocs, graduate students, and interns (junior or 
 - Our paper ["THOR: Secure Transformer Inference with Homomorphic Encryption"](https://eprint.iacr.org/2024/1881) has been published in ACM CCS!
 - Our paper ["Provably Secure Approximate Computation Protocols from CKKS"](https://eprint.iacr.org/2025/395) has been appeared in Cryptology ePrint Archive. 
 
-# 📖 Publications
+# 📝 Publications 
   * Empowering AI with Privacy through Homomorphic Encryption for Secure Deep Reinforcement Learning [[pdf]](https://doi.org/10.1038/s42256-025-01135-2)
     * Chi-Hieu Nguyen, Dinh Thai Hoang, Diep N. Nguyen, Kristin Lauter, **Miran Kim**
     * _NATURE MACHINE INTELLIGENCE_, 2025.
@@ -217,14 +217,14 @@ Positions are available for postdocs, graduate students, and interns (junior or 
 
   * First Prize, iDASH Genomic Data Privacy and Security Protection Competition 2015 [[URL]](http://www.humangenomeprivacy.org/2015) [[Media]](http://blogs.technet.com/b/inside_microsoft_research/archive/2015/03/20/cryptographers-challenge-keeping-genetic-secrets-while-advancing-genetic-research.aspx) [[Media]](http://news.donga.com/3/all/20150313/70100744/1)
 
-# 📖 Education
+# 📖 Educations
   * Ph.D in Mathematical Sciences, Seoul National University, February 2017
      * Research area: Cryptography
      * Advisor: [Dr. Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/)
   * M.S. in Mathematical Sciences, Seoul National University, February 2012
   * B.S. in Mathematical Education, Seoul National University, February 2010
 
-# 💻 Employment
+# 💻 Employments
   * Sep. 2024 - Present: Associate Professor
     * Department of Mathematics, Hanyang University
     * Department of Computer Science, Hanyang University
@@ -249,7 +249,7 @@ Positions are available for postdocs, graduate students, and interns (junior or 
     * Supervisor: [Dr. Kristin Lauter](https://ai.meta.com/people/786716476205590/kristin-e-lauter/)
 
 
-# 💻 Miscellaneous
+# 🧑‍🎨 Miscellaneous
   * Current Graduate Students
     * Hyeokjin Jeon, Sihyeok Song
 
