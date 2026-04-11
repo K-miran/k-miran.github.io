@@ -32,10 +32,14 @@ Positions are available for postdocs, graduate students, and interns (junior or 
 - Our paper ["Provably Secure Approximate Computation Protocols from CKKS"](https://eprint.iacr.org/2025/395) has been appeared in Cryptology ePrint Archive. 
 
 # 📝 Publications 
+  * More Efficient Lattice-based OLE from Circuit-private Linear HE with Polynomial Overhead [[pdf]](https://eprint.iacr.org/2024/1534)
+    * Leo de Castro, Duhyeong Kim, **Miran Kim**, Keewoo Lee, Seonhong Min, Yongsoo Song
+    * _IACR Communications in Cryptology_, 2026.
+
   * Empowering AI with Privacy through Homomorphic Encryption for Secure Deep Reinforcement Learning [[pdf]](https://doi.org/10.1038/s42256-025-01135-2)
     * Chi-Hieu Nguyen, Dinh Thai Hoang, Diep N. Nguyen, Kristin Lauter, **Miran Kim**
     * _NATURE MACHINE INTELLIGENCE_, 2025.
-  
+      
   * THOR: Secure Transformer Inference with Homomorphic Encryption [[pdf]](https://doi.org/10.1145/3719027.3765150) [[slide1]](https://github.com/K-miran/k-miran.github.io/blob/main/assets/slides/thor_ccs_2025.pdf) [[slide2]](https://github.com/K-miran/k-miran.github.io/blob/main/assets/slides/thor_fheorg_2026.pdf) 
      * Jungho Moon, Dongwoo Yoo, Xiaoqian Jiang, **Miran Kim**
      * _Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS)_, 2025.
