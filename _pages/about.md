@@ -25,14 +25,19 @@ In particular, I have been actively working on the development of homomorphic en
 Positions are available for postdocs, graduate students, and interns (junior or senior student) in areas in security, privacy, and deep learning. If you are interested in applying for a position, please send an email to me.
 
 # 🔥 News
-- Our paper ["More Efficient Lattice-based OLE from Circuit-private Linear HE with Polynomial Overhead"](https://eprint.iacr.org/2024/1534) has been published in The IACR Communications in Cryptology (CiC).
 - Our team received the Grand Prize at the 2025 National Cryptographic Technology Contest, organized by the National Intelligence Service of Korea (국가암호공모전2025 대상). [[URL]](https://www.yna.co.kr/view/AKR20251023108400017?input=1195m)
+- Our paper ["privateST: A Feasible Framework for Privacy-preserving Spatial Transcriptomics Prediction from Histopathology Images"]([https://doi.org/10.62056/avivr-zn4](https://doi.org/10.1038/s41598-026-55961-4)) has been published in Scientific Reports.
+- Our paper ["More Efficient Lattice-based OLE from Circuit-private Linear HE with Polynomial Overhead"](https://doi.org/10.62056/avivr-zn4) has been published in The IACR Communications in Cryptology.
 - Our paper ["Empowering AI with Homomorphic Encryption for Secure Deep Reinforcement Learning"](https://doi.org/10.1038/s42256-025-01135-2) has been published in Nature Machine Intelligence. 
-- Our paper ["THOR: Secure Transformer Inference with Homomorphic Encryption"](https://eprint.iacr.org/2024/1881) has been published in ACM CCS!
-- Our paper ["Provably Secure Approximate Computation Protocols from CKKS"](https://eprint.iacr.org/2025/395) has been appeared in Cryptology ePrint Archive. 
+- Our paper ["THOR: Secure Transformer Inference with Homomorphic Encryption"](https://eprint.iacr.org/2024/1881) has been published in ACM CCS. 
+
 
 # 📝 Publications 
-  * More Efficient Lattice-based OLE from Circuit-private Linear HE with Polynomial Overhead [[pdf]](https://eprint.iacr.org/2024/1534)
+  * privateST: A Feasible Framework for Privacy-preserving Spatial Transcriptomics Prediction from Histopathology Images [[pdf]](https://doi.org/10.1038/s41598-026-55961-4)
+    * Hakin Kim, **Miran Kim**, Buhm Han 
+    * _Scientific Reports_, 2026.
+      
+  * More Efficient Lattice-based OLE from Circuit-private Linear HE with Polynomial Overhead [[pdf]](https://doi.org/10.62056/avivr-zn4)
     * Leo de Castro, Duhyeong Kim, **Miran Kim**, Keewoo Lee, Seonhong Min, Yongsoo Song
     * _IACR Communications in Cryptology_, 2026.
 
