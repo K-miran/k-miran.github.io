@@ -25,6 +25,7 @@ In particular, I have been actively working on the development of homomorphic en
 Positions are available for postdocs, graduate students, and interns (junior or senior student) in areas in security, privacy, and deep learning. If you are interested in applying for a position, please send an email to me.
 
 # 🔥 News
+- The first KIAS PACOH Homomorphic Encryption Workshop will be held in Sokcho from next Monday through Friday [PACOH](https://symposia.kias.re.kr/pacoh-he2026)
 - Our work, ["The (In)security of Approximate Computation Protocols from CKKS"](https://ckks.org/blog/2026/Insecurity-ckks-protocol/), was recently highlighted in a CKKS.org blog post.
 - Our Hanyang University team received the Grand Prize at the 2025 National Cryptographic Technology Contest, organized by the National Intelligence Service of Korea (국가암호공모전2025 대상). [[URL]](https://www.yna.co.kr/view/AKR20251023108400017?input=1195m)
 - Our paper ["privateST: A Feasible Framework for Privacy-preserving Spatial Transcriptomics Prediction from Histopathology Images"](https://doi.org/10.1038/s41598-026-55961-4) has been published in Scientific Reports.
