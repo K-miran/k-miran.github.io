@@ -22,7 +22,7 @@ In particular, I have been actively working on the development of homomorphic en
 
 
 # Advertisement
-Positions are available for postdocs, graduate students, and interns (junior or senior student) in areas in security, privacy, and deep learning. If you are interested in applying for a position, please send an email to me.
+Positions are available for postdocs, graduate students, and interns (junior or senior student) in areas in security, privacy, and AI. If you are interested in applying for a position, please send an email to me.
 
 # 🔥 News
 - I serve on the ["FHE.org"](https://fhe.org) Advisory Board, starting in July 2026. 
