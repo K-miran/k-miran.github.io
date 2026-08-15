@@ -27,12 +27,16 @@ Positions are available for postdocs, graduate students, and interns (junior or 
 # 🔥 News
 - I serve on the ["FHE.org"](https://fhe.org) Advisory Board, starting in July 2026. 
 - I am participating in the SRC grant project FOMAS (Center for Foundations of Mathematical Algorithms and Security).
-- Our work, ["The (In)security of Approximate Computation Protocols from CKKS"](https://ckks.org/blog/2026/Insecurity-ckks-protocol/), was recently highlighted in a CKKS.org blog post.
+- Our work, ["The (In)security of Approximate Computation Protocols from CKKS"](https://ckks.org/blog/2026/Insecurity-ckks-protocol/), has been accepted to ASIACRYPT 2026. 
 - Our paper ["privateST: A Feasible Framework for Privacy-preserving Spatial Transcriptomics Prediction from Histopathology Images"](https://doi.org/10.1038/s41598-026-55961-4) has been published in Scientific Reports.
 - Our paper ["More Efficient Lattice-based OLE from Circuit-private Linear HE with Polynomial Overhead"](https://doi.org/10.62056/avivr-zn4) has been published in The IACR Communications in Cryptology.
 
 
 # 📝 Publications 
+  * On the (In)security of Approximate Computation Protocols from CKKS [[Blog]](https://ckks.org/blog/2026/Insecurity-ckks-protocol/)
+    * Intak Hwang, Yisol Hwang, **Miran Kim**, Dongwon Lee, Yongsoo Song
+    * _Advances in Cryptology – ASIACRYPT_, 2026.
+   
   * privateST: A Feasible Framework for Privacy-preserving Spatial Transcriptomics Prediction from Histopathology Images [[pdf]](https://doi.org/10.1038/s41598-026-55961-4)
     * Hakin Kim, **Miran Kim**, Buhm Han 
     * _Scientific Reports_, 2026.
