@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Associate Professor in the [Department of Mathematics](http://math.hanyang.ac.kr/frontpage.asp?catalogid=math&language=en&calltype=redirect) at [Hanyang University](https://www.hanyang.ac.kr/web/eng) and hold an affiliated faculty position at the [Department of Computer Science](http://cs.hanyang.ac.kr) at Hanyang University. My research mainly focuses on Privacy-Enhancing Cryptography (PEC), which aims to develop advanced cryptographic primitives to protect sensitive data of individuals. 
+I am an Associate Professor in the [Department of Mathematics](http://math.hanyang.ac.kr/frontpage.asp?catalogid=math&language=en&calltype=redirect) at [Hanyang University](https://www.hanyang.ac.kr/web/eng) and hold an affiliated faculty position at the Department of Computer Science at Hanyang University. My research mainly focuses on Privacy-Enhancing Cryptography (PEC), which aims to develop advanced cryptographic primitives to protect sensitive data of individuals. 
 In particular, I have been actively working on the development of homomorphic encryption, which enables to compute any function on encrypted data without decryption. Also, I have been working on privacy-preserving protocols in a wide range of applications such as data query processing, genomic analysis, and machine learning. 
 
 
@@ -26,7 +26,7 @@ Positions are available for postdocs, graduate students, and interns (junior or 
 
 # 🔥 News
 - I serve on the ["FHE.org"](https://fhe.org) Advisory Board, starting in July 2026. 
-- I am participating in the SRC grant project FOMAS (Center for Foundations of Mathematical Algorithms and Security).
+- I am participating in the SRC grant project FOMAS (Center for Foundations of Mathematical Algorithms and Security), starting in July 2026.
 - Our work, ["The (In)security of Approximate Computation Protocols from CKKS"](https://ckks.org/blog/2026/Insecurity-ckks-protocol/), has been accepted to ASIACRYPT 2026. 
 - Our paper ["privateST: A Feasible Framework for Privacy-preserving Spatial Transcriptomics Prediction from Histopathology Images"](https://doi.org/10.1038/s41598-026-55961-4) has been published in Scientific Reports.
 - Our paper ["More Efficient Lattice-based OLE from Circuit-private Linear HE with Polynomial Overhead"](https://doi.org/10.62056/avivr-zn4) has been published in The IACR Communications in Cryptology.
@@ -139,7 +139,7 @@ Positions are available for postdocs, graduate students, and interns (junior or 
       
   * Secure and Differentially Private Logistic Regression for Horizontally Distributed Data [[pdf]](https://ieeexplore.ieee.org/abstract/document/8747377)
       * **Miran Kim**, Junghye Lee, Lucila Ohno-Machado, Xiaoqian Jiang
-      * _IEEE Transactions on Information Forensics and Security (TIFS)_; 15(1):695-710, 2019. 
+      * _IEEE Transactions on Information Forensics and Security_; 15(1):695-710, 2019. 
       
   * SecureLR: Secure Logistic Regression Model via a Hybrid Cryptographic Protocol [[pdf]](https://ieeexplore.ieee.org/document/8355587)
       * Yichen Jiang, Jenny Hamer, Chenghong Wang, Xiaoqian Jiang, **Miran Kim**, Yongsoo Song, Yuhou Xia, Noman Mohammed, Md Nazmus Sadat, Shuang Wang
@@ -183,7 +183,7 @@ Positions are available for postdocs, graduate students, and interns (junior or 
       
   * Optimized Search-and-Compute Circuits and Their Application to Query Evaluation on Encrypted Data [[pdf]](https://ieeexplore.ieee.org/document/7279139)
       * Jung Hee Cheon, **Miran Kim**, Myungsun Kim
-      * _IEEE Transactions on Information Forensics and Security (TIFS)_; 11(1):188--199, 2016.
+      * _IEEE Transactions on Information Forensics and Security_; 11(1):188--199, 2016.
   
   * HEALER: Homomorphic computation of ExAct Logistic rEgRession for secure rare disease variants analysis in GWAS [[pdf]](https://academic.oup.com/bioinformatics/article/32/2/211/1744166)
       * Shuang Wang, Yuchen Zhang, Wenrui Dai, Kristin Lauter, **Miran Kim**, Yuzhe Tang, Hongkai Xiong, Xiaoqian Jiang
