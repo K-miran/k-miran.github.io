@@ -231,7 +231,7 @@ Positions are available for postdocs, graduate students, and interns (junior or 
   * First Prize, iDASH Genomic Data Privacy and Security Protection Competition 2015 [[URL]](http://www.humangenomeprivacy.org/2015) [[Media]](http://blogs.technet.com/b/inside_microsoft_research/archive/2015/03/20/cryptographers-challenge-keeping-genetic-secrets-while-advancing-genetic-research.aspx) [[Media]](http://news.donga.com/3/all/20150313/70100744/1)
 
 
-# 📝 Service (Program Committee)
+# 📝 Program Committee
   * 2027: AsiaCCS, ISMB, PKC
   * 2026: FHE.org, ISMB, PKC, WAHC 
   * 2025: Asiacrypt, CANS, FHE.org, ISMB, PKC, WAHC  
