@@ -202,7 +202,7 @@ Positions are available for postdocs, graduate students, and interns (junior or 
      * _BMC medical informatics and decision making_; 15(Suppl 5):S3, 2015.
 
 
-# 🎖 Honors and Awards
+# 🎖 Honors
   * Grand Prize Crypto Contest Oct 2025. Korea Cryptography Forum [[URL]](https://www.news1.kr/it-science/general-it/5951403)
       * THOR: Secure Transformer Inference with Homomorphic Encryption
          
