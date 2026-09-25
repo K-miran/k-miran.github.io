@@ -8,7 +8,10 @@ main:
     
   - title: "Honors"
     url: "/#-honors"
-
+    
+  - title: "Program Committee"
+    url: "/#-program-committee"
+    
   - title: "Educations"
     url: "/#-educations"
 
