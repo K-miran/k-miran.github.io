@@ -234,7 +234,7 @@ Positions are available for postdocs, graduate students, and interns (junior or 
 # 📝 Program Committee
   * 2027: AsiaCCS, PKC
   * 2026: FHE.org, ISMB, PKC, WAHC 
-  * 2025: Asiacrypt, CANS, FHE.org, ISMB, PKC, WAHC  
+  * 2025: Asiacrypt, CANS, FHE.org, ISMB, PKC  
   * 2024: ISMB, WAHC
   * 2024: ISMB, WAHC
   * 2023: ISMB, WAHC
